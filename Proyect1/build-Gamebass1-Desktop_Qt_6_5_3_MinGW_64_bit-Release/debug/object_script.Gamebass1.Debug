@@ -1,0 +1,12 @@
+debug/background.o
+debug/jugador1.o
+debug/jugador2.o
+debug/main.o
+debug/mainwindow.o
+debug/plataforma1.o
+debug/qrc_Resources.o
+debug/moc_background.o
+debug/moc_jugador1.o
+debug/moc_jugador2.o
+debug/moc_mainwindow.o
+debug/moc_plataforma1.o

@@ -1,0 +1,10 @@
+release/background.o
+release/jugador1.o
+release/jugador2.o
+release/main.o
+release/mainwindow.o
+release/qrc_Resources.o
+release/moc_background.o
+release/moc_jugador1.o
+release/moc_jugador2.o
+release/moc_mainwindow.o
